@@ -1,0 +1,35 @@
+[
+
+  {
+    "modelo": "Fusca",
+    "fabricante": "VW"
+  },
+
+  {
+    "modelo": "Celta",
+    "fabricante": "GM"
+  },
+
+  {
+    "modelo": "City",
+    "fabricante": "Honda"
+  }
+
+,
+
+  {
+    "modelo": "Civic",
+    "fabricante": "Honda"
+  }
+
+,
+
+  {
+    "modelo": "Brasilia",
+    "fabricante": "VW"
+  }
+
+
+
+
+]
